@@ -4,6 +4,11 @@ Fastboot installer for A/B dynamic-partition ROMs on the **ASUS ZenFone 8
 (ASUS_I006D)** with a **locked bootloader**, using a `vbmeta` image signed with
 your own AVB key.
 
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Tce4X4LHVbA"
+  title="Zenfone 8 flash tool" frameborder="0" allowfullscreen>
+</iframe>
+
 ---
 
 ## The key mechanism
