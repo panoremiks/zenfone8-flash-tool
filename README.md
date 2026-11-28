@@ -134,7 +134,10 @@ cp /path/to/rom.zip .
 ./flash-rom.sh --detect
 ./flash-rom.sh --dry-run
 
-# 5. install
+# 5. FLASH key on the device
+./flash-rom.sh --register-key # register/flash the generated key on the device
+
+# 6. install
 ./flash-rom.sh
 ```
 
